@@ -1,1 +1,3 @@
-console.log("Vai da certo")
+let nome = "Marcos";
+console.log(nome);
+
